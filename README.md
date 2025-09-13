@@ -1,7 +1,8 @@
-# REU 2023
+# 2023 UNC Charlotte Smart and Secure Future Computing REU
 
-**UNC Charlotte Smart and Secure Future Computing REU** <br>
-Research conducted under the direction of Dr. Wenhao Luo with support from Yanze Zhang <br> <br>
+Memory-Driven Exploration: A Multi-Agent Cognitive Robotics Approach
+
+Research conducted with Dr. Wenhao Luo and Yanze Zhang <br> <br>
 
 
 Some code provided from: John Modl, UMN Twin Cities, UROP Spring 2023 - *Towards Cooperative Intelligence in Multi-Agent Systems using Deep RL*
