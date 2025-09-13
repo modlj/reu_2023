@@ -1,6 +1,6 @@
 # 2023 UNC Charlotte Smart and Secure Future Computing REU
 
-Memory-Driven Exploration: A Multi-Agent Cognitive Robotics Approach
+*Memory-Driven Exploration: A Multi-Agent Cognitive Robotics Approach*
 
 Research conducted with Dr. Wenhao Luo and Yanze Zhang <br> <br>
 
